@@ -1,0 +1,46 @@
+.title{
+    width: 100%;
+    margin: 0;
+    font-size: 40px;
+    background-color: rgb(131, 144, 242);
+    color: aliceblue;
+    margin: 1;
+}
+
+.mycontainer{
+display: flex;
+flex-direction: column;
+padding: 10px;
+justify-content:start;
+justify-self: start;
+}
+
+
+.mycontainer2{
+    width: 100%;
+    height: 100%;
+    justify-content:start;
+    align-items: flex-start;
+}
+.wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 5%;
+}
+
+.legend{
+    font-size: 20px;
+}
+
+.bgray{
+    background-color: rgb(201, 200, 207);
+}
+
+h3{
+    font-size: large;
+    
+}
